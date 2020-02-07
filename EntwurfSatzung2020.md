@@ -7,9 +7,8 @@ Der Satzungszweck wird verwirklicht insbesondere auch durch die Förderung der k
 
 ### Mitglieder können werden:
 
-* Jeder deutsche Go-Spieler und jeder Deutsche, der am Go-Spiel interessiert ist und in Bayern wohnt.
-* Jeder Deutsche und jeder Ausländer, der am Go-Spiel interessiert ist und aus persönlichen Gründen dem Verband beitreten möchte, auch ohne in Bayern zu wohnen.
-* Jeder örtliche Verein, der seinen Sitz in Bayern hat. Die Mitglieder der örtlichen Vereine haben die gleichen Rechte und Pflichten wie Einzelmitglieder.
+* Jeder Deutsche, der am Go-Spiel interessiert ist und in Bayern wohnt.
+* Jeder Go-Spieler unabhängig vom Wohnsitz.
 
 Über die Aufnahme von Mitgliedern entscheidet der Vorstand. Der Vorstand kann die Aufnahme ohne Angabe von Gründen verweigern. Gegen die Verweigerung der Aufnahme kann der Antragsteller bei der Mitgliederversammlung Protest einlegen, die endgültig entscheidet.
 Personen, die sich um die Förderung des Go-Spiels oder des Vereins besonders verdient gemacht haben, können auf Vorschlag des Vorstandes durch die Mitgliederversammlung zu Ehrenmitgliedern ernannt werden.
