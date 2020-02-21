@@ -22,7 +22,6 @@ Personen, die sich um die Förderung des Go-Spiels oder des Vereins besonders ve
 
 Der Mitgliedsbeitrag wird jeweils für das folgende Geschäftsjahr durch die Mitgliederversammlung festgelegt und ist als Bringschuld für mindestens ein Jahr im Voraus zu entrichten.
 Durch Vorstandsbeschluß kann auf Antrag Einzelmitgliedern Beitragsnachlaß bis höchstens 50% aus wirtschaftlichen Gründen gewährt werden. Wiederholter Beitragsnachlaß ist zulässig.
-Auf ausdrücklichen Wunsch der Antragsteller sind ihre Namen gegenüber den übrigen Mitgliedern, ausgenommen den Kassenprüfern, durch den Vorstand und die Kassenprüfer vertraulich zu behandeln.
 
 Schüler, Studenten und sonst in Ausbildung befindliche Personen sowie Arbeitslose sind berechtigt, auch ohne Antrag nur 2/3 des Beitrages zu leisten. Ehegatten und eingetragene Lebenspartner brauchen bei Verzicht auf die Belieferung mit der Deutschen Go-Zeitung für die Mitgliedschaft nur 50% des Beitrags zu bezahlen. Ehrenmitglieder sind beitragsfrei. Geschäftsjahr ist das Kalenderjahr.
 
