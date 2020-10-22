@@ -8,15 +8,21 @@ Die Adresse lautet: https://bbb.ma.tum.de/ber-ajz-fna
 
 Unsere Tagesordnung lautet:
 
-Jahresbericht des Vorstands
-Rechenschaftsbericht des Schatzmeisters
-Bericht der Kassenprüfer
-Antrag auf Entlastung des Vorstands
-Bestimmung der Kassenprüfer für das kommende Jahr
-Anträge des Vorstandes
-Weitere Anträge
+ * Jahresbericht des Vorstands
+ * Rechenschaftsbericht des Schatzmeisters
+ * Bericht der Kassenprüfer
+ * Antrag auf Entlastung des Vorstands
+ * Bestimmung der Kassenprüfer für das kommende Jahr
+ * Anträge des Vorstandes
+ * Weitere Anträge
 
+Wie in Antrag(1) des Vorstandes zu lesen, müssen wir dem DGoB bereits im April 2021 die anteiligen Mitgliederbeiträge für 2021 überweisen. Bitte beachtet dass, wenn die Mitgliederversammlung dem zustimmt, der Einzug der Mitgliederbeiträge bereits im Januar angestoßen wird.
 
+Den Wortlaut der Anträge des Vorstandes könnt Ihr an folgender Stelle finden.
+
+https://github.com/BayGoV/MitgliederVersammlung/tree/master/MV2020
+
+Bitte lasst mir weitere Anträge gerne per E-Mail zukommen und ich werde sie dann ebenfalls an obiger Stelle veröffentlichen.
 
 Viele herzliche Grüße
 
