@@ -18,7 +18,7 @@ Unsere Tagesordnung lautet:
  * Anträge des Vorstandes
  * Weitere Anträge
 
-Wie in Antrag(1) des Vorstandes zu lesen, müssen wir dem DGoB bereits im April 2021 die anteiligen Mitgliederbeiträge für 2021 überweisen. Bitte beachtet dass, wenn die Mitgliederversammlung dem zustimmt, der Einzug der Mitgliederbeiträge bereits im Januar angestoßen wird.
+Wie in Antrag(1) des Vorstandes zu lesen, müssen wir dem DGoB bereits im April 2021 die anteiligen Mitgliederbeiträge für 2021 überweisen. Bitte beachtet dass, wenn die Mitgliederversammlung dem zustimmt, der Einzug der Mitgliederbeiträge 2021 bereits im Januar angestoßen wird.
 
 Den Wortlaut der Anträge des Vorstandes könnt Ihr an folgender Stelle finden.
 
