@@ -10,7 +10,7 @@ Der Vorstand beantragt folgende Richtlinien für die Vergabe des Titels "Bayeris
      * In diesem Fall sind die Modalitäten der Vorrunde mit dem Vorstand abzustimmen.
      * In diesem Fall soll der Titelhalter als qualifiziert gelten.
    * Das Turnier wurde dem Vorstand als Meisterschaftsturnier vorgeschlagen
-   * Der Vorstand hat dem Turnier zugestimmt und den Termin auf der Webseite des BGoV veröffentlicht
+   * Der Vorstand hat dem Turnier zugestimmt und den Termin veröffentlicht
    * Das Turnier soll in Bayern ausgetragen werden
    * Das Turnier soll einmal im Jahr bestimmt werden
  * Der Vorstand kann einen Geldpreis mit dem Gewinn des Titels verbinden
