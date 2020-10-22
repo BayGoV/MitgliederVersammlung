@@ -6,7 +6,7 @@ Für die Teilnahme benötigt Ihr den Zugangscode XXXXXX.
 
 Unseren Online Konferenzraum findet ihr hier: https://bbb.ma.tum.de/ber-ajz-fna
 
-Bitte beachtet, dass Ihr Euren Namen im Klartext angeben müsst und eine aktive Kamera haben müsst, damit die Mitgliederversammlung Eurer Identität sicher sein kann und Ihr Eurer Stimmrecht wahrzunehmen könnt. Alternativ könnt Ihr natürlich wie immer Eure Stimme schriftlich delegieren. Als dritte Alternative könnt Ihr mir schriftliche Abstimmungswünsche zu den einzelnen Anträgen zusenden.
+Bitte beachtet, dass Ihr Euren Namen im Klartext angeben müsst und eine aktive Kamera haben müsst, damit die Mitgliederversammlung Eurer Identität sicher sein kann und Ihr Eurer Stimmrecht wahrnehmen könnt. Alternativ könnt Ihr natürlich wie immer Eure Stimme schriftlich delegieren. Als dritte Alternative könnt Ihr mir schriftliche Abstimmungswünsche zu den einzelnen Anträgen zusenden.
 
 Unsere Tagesordnung lautet:
 
