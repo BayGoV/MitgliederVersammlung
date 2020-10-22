@@ -4,7 +4,7 @@ die diesjährige Mitgliederversammlung des Bayerischen Go-Vereins findet am Sams
 
 Für die Teilnahme benötigt Ihr den Zugangscode XXXXXX.
 
-Die Adresse lautet: https://bbb.ma.tum.de/ber-ajz-fna
+Unseren Online Konferenzraum findet ihr hier: https://bbb.ma.tum.de/ber-ajz-fna
 
 Unsere Tagesordnung lautet:
 
