@@ -30,14 +30,14 @@ Geschäftsjahr ist das Kalenderjahr.
 
 ### Die Organe des Vereins sind:
 
-* Der Vorstand im Sinne des §26 BGB
+* Der Vorstand
 * Die Mitgliederversammlung
 
-Die Mitgliederversammlung wählt den Vorsitzenden und die übrigen Vorstandsmitglieder auf die Dauer von drei Jahren. Rechte und Pflichten der Gewählten erlöschen mit dem Ende der Mitgliederversammlung, welche die Neuwahl vornimmt. Scheidet der Vorsitzende oder mehr als ein anderes Vorstandsmitglied innerhalb einer Wahlperiode aus dem Vorstand aus, so ist unverzüglich eine außerordentliche Mitgliederversammlung zu Zwecke der Ergänzungswahl einzuberufen. Scheidet nur ein Vorstandsmitglied aus, das nicht der Vorsitzende ist, so wird durch Vorstandsbeschluß bestimmt, wer sein Amt zusätzlich übernimmt. Der Vorstand kann beschließen, eine Mitgliederversammlung für eine Ersatzwahl einzuberufen.
+Der Vorstand besteht aus dem Vorsitzenden, dem Schatzmeister und optional einem oder mehreren stellvertretenden Vorsitzenden. Dem Vorstand obliegt die Geschäftsführung des Vereins und die Vertretung des Vereins nach § 26 BGB. Er beschließt die Weisungen für den Vorsitzenden, an welche dieser gebunden ist. Der Vorstand soll bei Bedarf, jedoch mindestens halbjährlich persönlich oder in virtueller Konferenz zusammentreten. Er ist jederzeit und an jedem Ort beschlussfähig, wenn mindestens zwei Vorstandsmitglieder anwesend oder durch schriftliche Vollmacht durch ein anderes Vorstandsmitglied vertreten sind. Der Vorsitzende oder der stellvertretende Vorsitzende muss anwesend sein. Der Vorstand kann die vorläufige Abberufung des Vorsitzenden beschließen, wenn dieser gegen die ihm erteilten Weisungen des Vorstands handelt. Eine unverzüglich einzuberufende außerordentliche Mitgliederversammlung überprüft den Vorstandsbeschluss und wählt bei seiner Bestätigung einen neuen Vorsitzenden. Bei Stimmengleichheit im Vorstand entscheidet die Stimme des anwesenden Vorsitzenden. Alljährlich findet die ordentliche Mitgliederversammlung mit persönlicher Anwesenheit oder in virtueller Konferenz statt. Der Versammlungsleiter bestimmt ein Vereinsmitglied als Protokollführer.
 
-Der Vorstand vertritt den Verein gerichtlich und außergerichtlich.
+Die Mitgliederversammlung wählt den Vorsitzenden und die übrigen Vorstandsmitglieder auf die Dauer von drei Jahren. Rechte und Pflichten der Gewählten erlöschen mit dem Ende der Mitgliederversammlung, welche die Neuwahl vornimmt. Scheidet der Vorsitzende oder mehr als ein anderes Vorstandsmitglied innerhalb einer Wahlperiode aus dem Vorstand aus, so ist unverzüglich eine ausserordentliche Mitgliederversammlung zum Zwecke der Ergänzungswahl einzuberufen. Scheidet nur ein Vorstandsmitglied aus, das nicht der Vorsitzende ist, so wird durch Vorstandsbeschluss bestimmt, wer sein Amt zusätzlich übernimmt. Der Vorstand kann beschließen, eine Mitgliederversammlung für eine Ersatzwahl einzuberufen.
 
-Der Vorstand besteht aus dem Vorsitzenden, dem stellvertretenden Vorsitzenden und dem Schatzmeister. Dem Vorstand obliegt die Geschäftsführung des Vereins. Er beschließt die Weisungen für den Vorsitzenden, an welche dieser gebunden ist. Der Vorstand soll bei Bedarf, jedoch mindestens halbjährlich, am Sitz des Vereins zusammentreten. Er ist jederzeit und an jedem Ort beschlussfähig, wenn mindestens drei Vorstandsmitglieder anwesend oder durch schriftliche Vollmacht durch ein anderes Vorstandsmitglied vertreten sind. Der Vorsitzende oder der stellvertretende Vorsitzende muss anwesend sein. Der Vorstand kann die vorläufige Abberufung des Vorsitzenden beschließen, wenn dieser gegen die ihm erteilten Weisungen des Vorstands handelt. Eine unverzüglich einzuberufende außerordentliche Mitgliederversammlung überprüft den Vorstandsbeschluß und wählt bei seiner Bestätigung einen neuen Vorsitzenden. Bei Stimmengleichheit im Vorstand entscheidet die Stimme des anwesenden Vorsitzenden. Alljährlich findet die ordentliche Mitgliederversammlung an dem Sitz des Vereins oder an einem anderen Ort in Bayern statt. Der Versammlungsleiter bestimmt ein Vereinsmitglied als Protokollführer.
+Der Vorstand vertritt den Verein nach Aussen und Innen. Jedes Mitglied des Vorstands ist berechtigt den Vorstand jeweils allein zu vertreten.
 
 ### Die Mitgliederversammlung beschließt über:
 
@@ -62,5 +62,10 @@ Alljährlich werden in der ordentlichen Mitgliederversammlung zwei Kassenprüfer
 Die Bekanntmachungen des Vereins erfolgen durch die vom Verein verteilte Go-Zeitung oder durch einfachen Brief oder Karte an alle Mitglieder. Eine Bekanntmachung durch elektronische Schriftform (z. B. Email) ist zulässig, falls das Mitglied dem schriftlich zugestimmt hat.
 
 Zur Auflösung des Vereins bedarf es einer Mehrheit von zwei Dritteln der abgegebenen Stimmen. Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall seines bisherigen Zweckes fällt das Vermögen des Vereins an den Deutschen Go Bund e.V., das es unmittelbar und ausschließlich für gemeinnützige Zwecke zu verwenden hat. Die Mitgliederversammlung, die über die Auflösung entscheidet, kann für den Fall, daß zu diesem Zeitpunkt andere gemeinnützige GoOrganisationen existieren, auch die Übertragung auf eine solche Organisation zu einem dann bestimmten gemeinnützigen Zweck beschließen. Jede andere Übertragung, insbesondere eine Verteilung des Restvermögens auf die Mitglieder, ist ausgeschlossen.
+
+### Verhältnis zum Deutschen Go-Bund e.V.
+1. Der Verein ist Mitglied des Deutschen Go-Bund e.V. 
+1. Die Interessen der im Verein organisierten Go-Spieler werden gegenüber dem Deutschen Go-Bund e.V. durch den Vorstand wahrgenommen.
+1. Der Vorstand beschließt, wer als Delegierter auf Delegiertenversammlungen des Deutschen Go-Bund e.V. den BGoV vertritt. Die Delegierten sind weisungsgebunden.
 
 ## Diese Satzung tritt zum 22. Oktober 2022 in Kraft.

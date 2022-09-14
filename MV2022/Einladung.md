@@ -19,6 +19,7 @@ Unsere aktuelle Satzung ist ein Stückwerk aus 50 Jahren von Satzungsänderungen
 Folgende Punkte sollen geändert/klargestellt werden:
  * Der Vorstand besteht aus dem Vorsitzenden, dem Schatzmeister und optional einem oder mehreren stellvertretenden Vorsitzenden.
  * Jedes Mitglied des Vorstands ist einzelvertretungsberechtigt
+ * Verhältnis zum DGoB
  * Eine Mitgliederversammlung darf "Online" stattfinden
 
 Den Textlaut des Entwurfs und weitere Unterlagen findet Ihr hier: https://github.com/BayGoV/MitgliederVersammlung/tree/master/MV2022
