@@ -19,12 +19,9 @@ Personen, die sich um die Förderung des Go-Spiels oder des Vereins besonders ve
 * Durch Ausschluss. Dieser erfolgt unter Angabe von Gründen durch die Mitgliederversammlung oder, wenn ein Mitglied seinen Beitrag trotz Mahnung länger als sechs Monate schuldet, wegen mangelnden Interesses, durch den Vorstand. Gegen den Ausschluss durch den Verein kann bei der Mitgliederversammlung Einspruch eingelegt werden.
 * Durch Tod.
 
-Der Mitgliedsbeitrag wird jeweils für das folgende Geschäftsjahr durch die Mitgliederversammlung festgelegt und ist als Bringschuld für mindestens ein Jahr im Voraus zu entrichten.
+### Mitgliedsbeiträge
 
-Schüler sind berechtigt nur 1/3 des Beitrages zu leisten.
-Studenten und sonstige in Ausbildung befindliche Personen sowie Arbeitslose sind berechtigt nur 2/3 des Beitrages zu leisten.
-Wirtschaftlich Bedürftige können auf Antrag eine Ermäßigung des Beitrages auf 2/3 erhalten. Über Anträge und die Dauer der Ermäßigung entscheidet der Vorstand.
-Ehrenmitglieder sind beitragsfrei.
+Die Mitgliedsbeiträge sind zu Anfang eines jeden Jahres für dieses Jahr zu entrichten. Bei Eintritt ist der erste Beitrag für das aktuelle Jahr unverzüglich zu entrichten. Über Höhe der Mitgliedsbeiträge und Ermäßigungen entscheidet die ordentliche Jahresversammlung aller Mitglieder. Über Anträge und die Dauer der Ermäßigung entscheidet der Vorstand. Ehrenmitglieder sind beitragsfrei.
 
 Geschäftsjahr ist das Kalenderjahr.
 
