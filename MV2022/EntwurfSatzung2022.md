@@ -34,7 +34,7 @@ Der Vorstand besteht aus dem Vorsitzenden, dem Schatzmeister und optional einem 
 
 Die Mitgliederversammlung wählt den Vorsitzenden und die übrigen Vorstandsmitglieder auf die Dauer von drei Jahren. Rechte und Pflichten der Gewählten erlöschen mit dem Ende der Mitgliederversammlung, welche die Neuwahl vornimmt. Scheidet der Vorsitzende oder mehr als ein anderes Vorstandsmitglied innerhalb einer Wahlperiode aus dem Vorstand aus, so ist unverzüglich eine ausserordentliche Mitgliederversammlung zum Zwecke der Ergänzungswahl einzuberufen. Scheidet nur ein Vorstandsmitglied aus, das nicht der Vorsitzende ist, so wird durch Vorstandsbeschluss bestimmt, wer sein Amt zusätzlich übernimmt. Der Vorstand kann beschließen, eine Mitgliederversammlung für eine Ersatzwahl einzuberufen.
 
-Der Vorstand vertritt den Verein nach Aussen und Innen. Jedes Mitglied des Vorstands ist berechtigt den Vorstand jeweils allein zu vertreten.
+Der Vorstand vertritt den Verein nach Aussen und Innen. Jedes Mitglied des Vorstands ist berechtigt den Verein jeweils allein zu vertreten.
 
 ### Die Mitgliederversammlung beschließt über:
 
