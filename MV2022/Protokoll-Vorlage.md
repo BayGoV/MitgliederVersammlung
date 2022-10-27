@@ -5,9 +5,9 @@
 München, 22. Oktober 2022
 
 ### Anwesende
-
-<br><br><br><br><br>
-
+&nbsp;
+...
+&nbsp;
 ### Tagesordnung
 
  * Jahresbericht des Vorstands
@@ -21,9 +21,9 @@ München, 22. Oktober 2022
  * Weitere Anträge
 
 ###  Notizen
-
-<br><br><br><br>
-
+&nbsp;
+...
+&nbsp;
 ### Unterschrift
 
  * Protokollführer
