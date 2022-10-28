@@ -66,4 +66,3 @@ Zur Auflösung des Vereins bedarf es einer Mehrheit von zwei Dritteln der abgege
 1. Die Interessen der im Verein organisierten Go-Spieler werden gegenüber dem Deutschen Go-Bund e.V. durch den Vorstand wahrgenommen.
 1. Der Vorstand beschließt, wer als Delegierter auf Delegiertenversammlungen des Deutschen Go-Bund e.V. den BGoV vertritt. Die Delegierten sind weisungsgebunden.
 
-## Diese Satzung tritt zum 22. Oktober 2022 in Kraft.
