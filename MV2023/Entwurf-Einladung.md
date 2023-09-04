@@ -9,7 +9,6 @@ Unsere Tagesordnung lautet:
  * Bericht der Kassenprüfer
  * Antrag auf Entlastung des Vorstands
  * Bestimmung der Kassenprüfer für das kommende Jahr
- * Wahl des Vorstandes
  * Antrag auf Erhöhung der Mitgliedsbeiträge
  * Weitere Anträge
 
