@@ -17,6 +17,8 @@ Auch wollten wir mit der frühen Einladung vor dem Beitragseinzugstermin die Cha
 
 Wir senken dadurch den Beitrag für Jugendliche Mitglieder von 15€ auf 12€, aber belasten unsere Vollmitglieder mit der Steigerung von 45€ auf 60€ erheblich. Wir bitten Mitglieder, die diese Belastung nicht tragen können, sich informell z.B. per Email an "vorstand@bgov.de" zu melden und werden anbieten die Mitgliedschaft zu ermäßigen.
 
+Bitte beachtet auch, dass wir ein neues Konto bei der Deutschen Skatbank haben. IBAN siehe unten. Insbesondere bitten wir die Selbstzahler unter Euch, die Mitgliedsbeiträge ab sofort dorthin zu überweisen.
+
 Bitte lasst mir weitere Anträge gerne per E-Mail zukommen und ich werde sie dann an folgender Stelle veröffentlichen: https://github.com/BayGoV/MitgliederVersammlung/tree/master/MV2024
 
 Viele herzliche Grüße
