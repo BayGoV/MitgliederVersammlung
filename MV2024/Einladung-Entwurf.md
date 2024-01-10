@@ -13,9 +13,9 @@ Unsere Tagesordnung lautet:
 
 Ihr fragt Euch: Zwei Mal MV in weniger als 3 Monaten? Auf Wunsch der letztjährigen MV haben wir die diesjährige MV auf Anfang Februar vorgezogen, um die Distanz zum Jahr über das wir berichten zu verringern und damit Beschlüsse, die finanziert werden müssen, auch noch zeitnah umgesetzt werden können.
 
-Auch wollten wir mit der frühen Einladung vor dem Beitragseinzugstermin die Chance nutzen Euch mitzuteieln, dass die Mitgliedsbeiträge ab Januar 2024 folgende sind: Vollmitglied - 60€, Ermäßigtes Mitglied - 36€, Jugendliche und Zweitmitglieder - 12€.
+Auch wollten wir mit der frühen Einladung vor dem Beitragseinzugstermin die Chance nutzen Euch mitzuteilen, dass auf Beschluß der MV23 die Mitgliedsbeiträge ab Januar 2024 folgende sind: Vollmitglied 60€, Ermäßigtes Mitglied 36€, Jugendliche und Zweitmitglieder 12€.
 
-Wir senken dadurch den Beitrag für Jugendliche Mitglieder von 15€ auf 12€, aber belasten unsere Vollmitglieder erheblich mit der Steigerung von 45€ auf 60€. Wir bitten Mitglieder, die diese Belastung nicht tragen können, sich informell z.B. per Email an "vorstand@bgov.de" zu melden und werden anbieten die Mitgliedschaft zu ermäßigen.
+Wir senken dadurch den Beitrag für Jugendliche Mitglieder von 15€ auf 12€, aber belasten unsere Vollmitglieder mit der Steigerung von 45€ auf 60€ erheblich. Wir bitten Mitglieder, die diese Belastung nicht tragen können, sich informell z.B. per Email an "vorstand@bgov.de" zu melden und werden anbieten die Mitgliedschaft zu ermäßigen.
 
 Bitte lasst mir weitere Anträge gerne per E-Mail zukommen und ich werde sie dann an folgender Stelle veröffentlichen: https://github.com/BayGoV/MitgliederVersammlung/tree/master/MV2024
 
