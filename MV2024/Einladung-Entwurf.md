@@ -11,7 +11,7 @@ Unsere Tagesordnung lautet:
  * Bestimmung der Kassenprüfer für das kommende Jahr
  * Weitere Anträge
 
-Ihr fragt Euch: Zwei Mal MV in weniger als 3 Monaten? Auf Wunsch der letztjährigen MV haben wir die diesjährige MV auf Anfang Februar vorgezogen, um die Distanz zum Jahr über das wir berichten zu verringern und damit Beschlüsse, die finanziert werden müssen, auch noch zeitnah umgesetzt werden können.
+Ihr fragt Euch: Zwei MVs in weniger als 3 Monaten? Auf Wunsch der letztjährigen MV haben wir die diesjährige MV auf Anfang Februar vorgezogen, um die Distanz zum Jahr über das wir berichten zu verringern und damit Beschlüsse, die finanziert werden müssen, auch noch zeitnah umgesetzt werden können.
 
 Auch wollten wir mit der frühen Einladung vor dem Beitragseinzugstermin die Chance nutzen Euch mitzuteilen, dass auf Beschluß der MV23 die Mitgliedsbeiträge ab Januar 2024 folgende sind: Vollmitglied 60€, Ermäßigtes Mitglied 36€, Jugendliche und Zweitmitglieder 12€.
 
