@@ -9,6 +9,8 @@ Unsere Tagesordnung lautet:
  * Bericht der Kassenprüfer
  * Antrag auf Entlastung des Vorstands
  * Bestimmung der Kassenprüfer für das kommende Jahr
+ * Feedback an den Vorstand und Vorschläge für 2024
+ * Suche nach einem Veranstalter für das Bierseidel Turnier 2024
  * Weitere Anträge
 
 Ihr fragt Euch: Zwei MVs in weniger als 3 Monaten? Auf Wunsch der letztjährigen MV haben wir die diesjährige MV auf Anfang Februar vorgezogen, um die Distanz zum Jahr über das wir berichten zu verringern und damit Beschlüsse, die finanziert werden müssen, auch noch zeitnah umgesetzt werden können.
