@@ -6,7 +6,7 @@ Unsere Tagesordnung lautet:
 
  * Bericht des Vorstands
  * Bericht des Schatzmeisters
- * Antrag auf Entlastung des Vorstands
+ * Antrag auf Entlastung des ausscheidenden Vorstands
  * Ergänzungswahl des Vorstands
  * Weitere Anträge
 
