@@ -1,6 +1,6 @@
 Liebe Mitglieder,
 
-hiermit lade ich zu einer außerordentlichen Mitgliederversammlung des Bayerischen Go-Vereins zum Zweck der Ergänzungswahl des Vorstands. Sie findet am Samstag, dem 08.06.24 um 20:00 Uhr im Kath. Pfarrheim Haus Augustinus, Georgenstraße 14A, 86152 Augsburg nach der zweiten Runde des 2. Sommer-Go-Treffen Augsburg statt.
+hiermit lade ich zu einer außerordentlichen Mitgliederversammlung des Bayerischen Go-Vereins zum Zweck der Ergänzungswahl des Vorstands. Sie findet am Samstag, dem 08.06.24 um 19:00 Uhr im Kath. Pfarrheim Haus Augustinus, Georgenstraße 14A, 86152 Augsburg nach der zweiten Runde des 2. Sommer-Go-Treffen Augsburg statt.
 
 Unsere Tagesordnung lautet:
 
