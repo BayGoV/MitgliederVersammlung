@@ -4,12 +4,10 @@ hiermit lade ich zu einer außerordentlichen Mitgliederversammlung des Bayerisch
 
 Unsere Tagesordnung lautet:
 
- * Jahresbericht des Vorstands
- * Rechenschaftsbericht des Schatzmeisters
- * Bericht der Kassenprüfer
+ * Bericht des Vorstands
+ * Bericht des Schatzmeisters
  * Antrag auf Entlastung des Vorstands
  * Ergänzungswahl des Vorstands
- * Bestimmung der Kassenprüfer für das kommende Jahr
  * Weitere Anträge
 
 Vielleicht hat der eine oder andere es schon auf dgob.de gelesen: Auf der Delegiertenversammlung des DGoB am 06. April in Paderborn wurde ich als Präsident des DGoB gewählt. Um den Anschein eines Interessenkonflikts zu vermeiden lege ich daher mein Amt als Präsident des BGoV nieder. Laut unserer Satzung muss in diesem Fall umgehend eine Ergänzungswahl des Vorstands stattfinden.
