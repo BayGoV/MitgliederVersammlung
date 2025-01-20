@@ -11,6 +11,8 @@ Unsere Tagesordnung lautet:
 - Bestimmung der Kassenprüfer für das kommende Jahr
 - Wahl des Vorstands
 - Feedback an den Vorstand und Vorschläge für 2025
+- Förderung der Spielabende bes. der Jugendarbeit (Klaus Flügge)
+- Plan B für das Materiallager (Klaus Flügge)
 - Weitere Anträge
 
 Bitte lasst mir weitere Anträge gerne per E-Mail zukommen und ich werde sie dann an folgender Stelle veröffentlichen: https://github.com/BayGoV/MitgliederVersammlung/tree/master/MV2025
